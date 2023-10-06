@@ -1,6 +1,6 @@
 
 
- # Hello and welcome to my ✨ **GitHuB Profile ** ✨ ! 
+ # Hello and welcome to my ✨ **GitHuB Profile** ✨ ! 
 
 
 
