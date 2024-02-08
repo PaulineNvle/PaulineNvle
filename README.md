@@ -6,7 +6,7 @@
 
 ## I’m Pauline Neuville 👋
 
-After a experience in the beauty sector, I choosed to reorient myself in th web/software development.
+After an experience in the beauty sector, I choosed to reorient myself in th web/software development.
 I recently finished my journey at [Becode](https://becode.org/), a code academy in Liège.
 Now, it's time to practice everything that I've learned with an internship!
 I will be in the computer science department of Solidaris Liège for the next 3 months!
