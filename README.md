@@ -15,8 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=PaulineNvle&style=flat-square&color=blue" alt=""/>
-</div>
-
+</div><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PaulineNvle&theme=highcontrast&hide_border=true&background=45%2CEB0070%2CEB2AD8&ring=EBD9EA&fire=FFC314&currStreakLabel=000000&sideLabels=000000&dates=14016E&currStreakNum=000000" alt="GitHub Streak" /></a>
 <div align="center">
   After an experience in the beauty sector, I chose to reorient myself in web/software development. I recently finished my journey at <a href="https://becode.org">BeCode</a>, a code academy in Liège.
   <br>
@@ -67,4 +66,4 @@ By now, I've worked with:
 * C#
 * Angular
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PaulineNvle&theme=highcontrast&hide_border=true&background=45%2CEB0070%2CEB2AD8&ring=EBD9EA&fire=FFC314&currStreakLabel=000000&sideLabels=000000&dates=14016E&currStreakNum=000000" alt="GitHub Streak" /></a>
+
