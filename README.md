@@ -22,7 +22,7 @@
 <div>
   I'm all ready to start a new journey as a <b>Junior Dev</b>!
 </div>
-
+----
 
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PaulineNvle&theme=highcontrast&hide_border=true&background=45%2CEB0070%2CEB2AD8&ring=EBD9EA&fire=FFC314&currStreakLabel=000000&sideLabels=000000&dates=14016E&currStreakNum=000000" alt="GitHub Streak" /></a>
