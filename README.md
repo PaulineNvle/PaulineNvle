@@ -11,7 +11,11 @@
   <a href="https://www.linkedin.com/in/pauline-n-871107141/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=PaulineNvle&style=flat-square&color=blue" alt=""/>
 </div>
+
+
+
 
 
 After an experience in the beauty sector, I choosed to reorient myself in th web/software development.
@@ -26,6 +30,4 @@ I will be in the computer science department of Solidaris Liège for the next 3 
 ##  Languages & tools 🧰
 
 👀 By now, we've seen HTML, CSS, JS, on Node.JS and bit of PHP. And now, I choosed to focus on C# on ☆ ASP.NET ☆ 
-
-📫 Reach me on my [Linkedin](https://www.linkedin.com/in/pauline-n-871107141/) !
 
