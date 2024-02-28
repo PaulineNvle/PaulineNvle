@@ -2,9 +2,20 @@
 
  # Hello and welcome to my ✨ GitHuB Profile ✨ ! 
 
+ 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
+</div>
 
 
 ## I’m Pauline Neuville 👋
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/pauline-n-871107141/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 
 After an experience in the beauty sector, I choosed to reorient myself in th web/software development.
 I recently finished my journey at [Becode](https://becode.org/), a code academy in Liège.
