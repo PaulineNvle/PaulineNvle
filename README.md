@@ -19,7 +19,7 @@ After an experience in the beauty sector, I choosed to reorient myself in th web
 I recently finished my journey at [Becode](https://becode.org/), a code academy in Liège.
 After a successfull intership, at Solidaris, in the IT Department, I'm all ready to
 
-<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PaulineNvle&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
+<a  href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PaulineNvle&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
 
 
 ----
