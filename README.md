@@ -1,16 +1,13 @@
 
+<h1 align="center">Hello and welcome to my ✨ GitHuB Profile ✨ ! </h1>
 
- # Hello and welcome to my ✨ GitHuB Profile ✨ ! 
-
- 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="400"/>
 </div>
 
+<h2 align="center">I’m Pauline Neuville 👋</h2>
 
-## I’m Pauline Neuville 👋
-
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pauline-n-871107141/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
