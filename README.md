@@ -28,12 +28,16 @@
 </div>
 
 <hr>
-
-## My Bio
-
-I'm a passionate and eager learner with a strong foundation in web development technologies like HTML, CSS, JavaScript. I recently embarked on a journey to dive deeper into the world of backend development, specifically focusing on C# and ASP.NET. I'm excited to explore this new domain and continuously expand my skillset to become a valuable asset in the software development field.
+<div>
+  <h3>My Bio</h3>
+  <p>I'm a passionate and eager learner with a strong foundation in web development technologies like HTML, CSS, JavaScript. I recently embarked on a journey to dive deeper into the world of backend development, specifically focusing on C# and ASP.NET. I'm excited to explore this new domain and continuously expand my skillset to become a valuable asset in the software development field.
 
 Beyond technical skills, I possess excellent communication and collaboration skills, honed through my experiences in both the beauty sector and my academic journey. I'm a team player who thrives in collaborative environments and is always eager to learn from others.
+</p>
+</div>
+
+
+
 
 **Here are some additional things I'm passionate about:**
 
