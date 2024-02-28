@@ -16,7 +16,7 @@
 
 <div align="center">
   After an experience in the beauty sector, I choosed to reorient myself in th web/software development.
-  I recently finished my journey at [Becode](https://becode.org/), a code academy in Liège.
+  I recently finished my journey at <a src="https://becode.org">BeCode</a>, a code academy in Liège.
   After a successfull intership, at Solidaris, in the IT Department, where I developped an intern application, in Angular, C# on Entity and SQL.
   
   I'm all ready to start a new journey as a <b>Junior Dev</b>!
