@@ -52,7 +52,7 @@ Beyond technical skills, I possess excellent communication and collaboration ski
 
 By now, I've worked with:
 
-<div style="text-align: center;">
+<div style="text-align: center;style="width: 20%; max-width: 500px;">
 ![image](https://github.com/PaulineNvle/PaulineNvle/assets/128800225/3d0b3b8f-1573-4818-8c5e-e9c6165bdb98)
 
 ![image](https://github.com/PaulineNvle/PaulineNvle/assets/128800225/f33898de-64c6-4593-b200-57f622b5eeca)
