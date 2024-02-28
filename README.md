@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" alt="Welcome GIF" style="width: 100%; max-width: 500px;">
+  <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" alt="Welcome GIF" style="width: 80%; max-width: 500px;">
 </div>
 
 <h1 align="center">
@@ -53,14 +53,17 @@ Beyond technical skills, I possess excellent communication and collaboration ski
 By now, I've worked with:
 
 <div style="text-align: center;">
-  <img src="images/html.png" alt="HTML" width="30">
-  <img src="images/css.png" alt="CSS" width="30">
-  <img src="images/javascript.png" alt="JavaScript" width="30">
-  <img src="images/nodejs.png" alt="Node.js" width="30">
-  <img src="images/csharp.png" alt="C#" width="50" style="border: 2px solid #ff0000">
+![image](https://github.com/PaulineNvle/PaulineNvle/assets/128800225/3d0b3b8f-1573-4818-8c5e-e9c6165bdb98)
+
+![image](https://github.com/PaulineNvle/PaulineNvle/assets/128800225/f33898de-64c6-4593-b200-57f622b5eeca)
+
+![image](https://github.com/PaulineNvle/PaulineNvle/assets/128800225/74e63ba7-d35b-41f8-8bb1-94cccfe86edc)
+
+![image](https://github.com/PaulineNvle/PaulineNvle/assets/128800225/3529f821-fe1e-4257-9923-425fa84c2525)
+
   <img src="images/angular.png" alt="Angular" width="50" style="background-color: #0000ff">
 </div>
-
+s
 **Specializing in:**
 
 * C#
