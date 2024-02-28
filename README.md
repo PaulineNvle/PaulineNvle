@@ -1,12 +1,12 @@
-<div style="text-align: center;">
+<div align="center">
   <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" alt="Welcome GIF" style="width: 50%; max-width: 500px;">
 </div>
 
-<h1 style="text-align: center;">
+<h1 align="center">
   Hello and welcome to my ✨ GitHuB Profile ✨
 </h1>
 
-<h2 style="text-align: center; font-size: 1.2em;">
+<h2 align="center"; font-size: 1.2em;">
   <i><b>I'm Pauline Neuville</b></i>
 </h2>
 
