@@ -15,13 +15,12 @@
 </div>
 
 
-
-
-
 After an experience in the beauty sector, I choosed to reorient myself in th web/software development.
 I recently finished my journey at [Becode](https://becode.org/), a code academy in Liège.
-Now, it's time to practice everything that I've learned with an internship!
-I will be in the computer science department of Solidaris Liège for the next 3 months!
+After a successfull intership, at Solidaris, in the IT Department, I'm all ready to
+
+<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PaulineNvle&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
+
 
 ----
 
