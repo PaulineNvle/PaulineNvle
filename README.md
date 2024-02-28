@@ -10,20 +10,20 @@
   <i><b>I'm Pauline Neuville</b></i>
 </h2>
 
-<div id="badges" style="text-align: center;">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pauline-n-871107141/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=PaulineNvle&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
   After an experience in the beauty sector, I chose to reorient myself in web/software development. I recently finished my journey at <a href="https://becode.org">BeCode</a>, a code academy in Liège.
   <br>
   After a successful internship at Solidaris, in the IT Department, where I developed an internal application in Angular, C# on Entity, and SQL.
 </div>
 
-<div style="text-align: center;">
+<div align="center">
   I'm all ready to start a new journey as a <b>Junior Dev</b>!
 </div>
 
@@ -31,7 +31,7 @@
 
 ## My Bio
 
-I'm a passionate and eager learner with a strong foundation in web development technologies like HTML, CSS, JavaScript, and Node.js. I recently embarked on a journey to delve deeper into the world of backend development, specifically focusing on C# and ASP.NET. I'm excited to explore this new domain and continuously expand my skillset to become a valuable asset in the software development field.
+I'm a passionate and eager learner with a strong foundation in web development technologies like HTML, CSS, JavaScript. I recently embarked on a journey to dive deeper into the world of backend development, specifically focusing on C# and ASP.NET. I'm excited to explore this new domain and continuously expand my skillset to become a valuable asset in the software development field.
 
 Beyond technical skills, I possess excellent communication and collaboration skills, honed through my experiences in both the beauty sector and my academic journey. I'm a team player who thrives in collaborative environments and is always eager to learn from others.
 
