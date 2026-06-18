@@ -26,7 +26,7 @@ After an experience in the beauty sector, I chose to reorient myself in web/soft
 
 After a successful internship at Solidaris, in the IT Department, where I developed an internal application in Angular, C# on Entity, and SQL.
 
-Since my bachelor's classes are held in the evening, I am available and motivated to work as a **Junior Dev**!
+Since my bachelor's classes are held in the evening, I am currently working as a **ERP Technical Support Specialist** at [Brainstorming](https://www.brainstorming.be/).
 
 ```javascript
 const PAULINE = {
@@ -37,5 +37,5 @@ const PAULINE = {
   database: ["Postgresql", "mySQL"],
   techno: ["Visual Code", "Jetbrains"],
   cloud-server: ["AWS"],
-  challenge: ["Become a next generation developer,respect the conventions, continue learning"]
+  challenge: ["Become a next generation developer, respect the conventions, continue learning"]
 }
